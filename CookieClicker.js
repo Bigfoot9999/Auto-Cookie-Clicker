@@ -13,3 +13,4 @@
     document.getElementById('bigCookie').click();
     setTimeout(cookieClick, 0);
 })();
+//auto update test
