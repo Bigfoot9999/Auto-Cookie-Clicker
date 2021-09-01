@@ -1,0 +1,15 @@
+// ==UserScript==
+// @name         Cookie Auto-clicker
+// @namespace    https://github.com/Bigfoot9999
+// @version      1.1.0
+// @description  Auto clicker made by bigfoot
+// @author       Bigfoot9999
+// @match        https://trixter9994.github.io/Cookie-Clicker-Source-Code/
+// @grant        none
+// @updateURL    https://github.com/Bigfoot9999/Auto-Cookie-Clicker/
+// ==/UserScript==
+
+(function cookieClick(){
+    document.getElementById('bigCookie').click();
+    setTimeout(cookieClick, 0);
+})();
