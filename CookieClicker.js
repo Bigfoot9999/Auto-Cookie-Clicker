@@ -9,7 +9,7 @@
 // @updateURL    https://github.com/Bigfoot9999/Auto-Cookie-Clicker/
 // @downloadURL  https://github.com/Bigfoot9999/Auto-Cookie-Clicker/
 // ==/UserScript==
-
+//DOWNLOAD TAMPERMONKEY: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
 (function cookieClick(){
     document.getElementById('bigCookie').click();
