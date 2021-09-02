@@ -11,6 +11,7 @@
 // @downloadURL  https://github.com/Bigfoot9999/Auto-Cookie-Clicker/
 // ==/UserScript==
 
+//test (successful update)
 
 (function cookieClick(){
     document.getElementById('bigCookie').click();
