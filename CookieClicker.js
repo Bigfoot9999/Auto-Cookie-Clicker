@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cookie Auto-clicker
 // @namespace    https://github.com/Bigfoot9999
-// @version      1.1.0
+// @version      1.1.1
 // @description  Auto clicker made by bigfoot (https://raw.githubusercontent.com/Bigfoot9999/Auto-Cookie-Clicker/main/CookieClicker.js)
 // @author       Bigfoot9999
 // @match        https://*/*
@@ -20,3 +20,4 @@ document.addEventListener("keypress", function(keypress) {
 })();
 
 
+//test
